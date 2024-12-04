@@ -1,6 +1,8 @@
 # Pacific Trails Resort
 **Pacific Trails Resort** is a website I created for the HTML/CSS course at *Davis Technical College*.
 
+You can few the site [here](https://shmolty.github.io/PacificTrailsResort/index.html)
+
 ## Things I learned
 * Flexbox
 * Grid
